@@ -29,7 +29,7 @@ function BottomNav() {
           }}>
             <Animate delay={300} type="slideDown">
               <div className="transition-all cursor-pointer lg:hover:text-black lg:hover:bg-primary flex items-center gap-3 duration-700 ease-in-out  border border-foreground/30  w-fit  px-4 py-3 rounded-full">
-                +91 9390558027 <FaArrowUp />
+                +91 9908927901 <FaArrowUp />
               </div>
             </Animate>
           </div>
