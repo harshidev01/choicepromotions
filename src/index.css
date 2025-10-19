@@ -1,0 +1,20 @@
+/* Import the fonts first */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+/* Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+h1,
+h2 {
+  font-family: "Poppins", sans-serif;
+}
